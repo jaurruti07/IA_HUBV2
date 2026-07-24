@@ -1044,9 +1044,9 @@
   }
   ],
   "rankings": {
-    "investigacion": ["ChatGPT", "Claude", "Gemini", "Perplexity AI", "DeepSeek"],
+    "investigacion": ["ChatGPT", "Claude", "Gemini", "Grok", "DeepSeek"],
     "programacion": ["Claude", "DeepSeek", "Grok", "ChatGPT"],
-    "empresas": ["Cohere Chat", "Microsoft Copilot", "Doubao", "Amazon Nova", "IBM watsonx Assistant"],
-    "data": ["ChatGPT", "DeepSeek", "Gemini", "Mistral AI (Le Chat)", "Claude"]
+    "empresas": ["Gemini", "Microsoft Copilot", "Cloude", "Amazon Nova", "IBM watsonx Assistant"],
+    "data": ["Cloude", "DeepSeek", "Gemini", "Mistral AI (Le Chat)", "ChatGPT"]
   }
 }
